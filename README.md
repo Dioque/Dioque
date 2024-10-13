@@ -24,4 +24,4 @@
 1. [Zalendral](https://github.com/Dioque/Zalendral-0001-teste): Um MMORPG...
 
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dioque26&show_icons=true&theme=merko)
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dioque&show_icons=true&theme=merko)
