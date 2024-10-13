@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
-<!--
-**Dioque/Dioque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Olá, eu sou Dioque - Software Developer 
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+
+## Habilidades Tecnológicas
+
+💻 Aqui estão algumas das tecnologias que eu domino:
+
+-  Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+
+## Projetos Criativos
+
+🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+
+1. [Zalendral](https://github.com/Dioque/Zalendral-0001-teste): Um MMORPG...
