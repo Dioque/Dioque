@@ -14,7 +14,7 @@
 
 - :
 
-    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 
 ## Projetos Criativos
