@@ -1,27 +1,20 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
 
-# 🚀 Olá, eu sou Eduardo - Software Developer 
-
-## Sobre mim
-
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
-
-## Habilidades Tecnológicas
-
-💻 Aqui estão algumas das tecnologias que eu domino:
-
-- :
-
-    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-## Projetos Criativos
+### Olá, meu nome é Eduardo!
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+<p align="left"> 
+  Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras.<br>
+  Sempre buscando impulsionar a evolução humana por meio da tecnologia.
 
-1. [Zalendral](https://github.com/Dioque/Zalendral-0001-teste): Um MMORPG...
+#### Cursando ADS...
+</p>
 
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dioque&show_icons=true&theme=merko)
+<img align='' src="https://github-readme-stats.vercel.app/api?username=Dioque&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Eduardo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+
