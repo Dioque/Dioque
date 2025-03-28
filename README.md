@@ -5,10 +5,17 @@
 ### Olá, meu nome é Eduardo!
 
 <p align="left"> 
-  Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras.<br>
+  Sou apaixonado por desafios, criatividade e soluções inovadoras.<br>
   Sempre buscando impulsionar a evolução humana por meio da tecnologia.
 
 #### Cursando ADS...
+
+
+#### "P&D em TI
+- computação Quântica
+- Inteligência Artificial 
+- Blockchain/Criptografia"
+
 </p>
 
 
