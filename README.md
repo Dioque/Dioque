@@ -6,6 +6,7 @@
 
 <p align="left"> 
   Sou apaixonado por desafios, criatividade e soluções inovadoras.<br>
+  
   Sempre buscando impulsionar a evolução humana por meio da tecnologia.
 
 #### Cursando ADS...
